@@ -1,0 +1,27 @@
+[Office Tool Plus 사용법]
+
+설치 방법
+1. 압축파일 풀기
+2. office Tool Plus.exe를 실행시킨다.
+3. 왼쪽 도구 에서 배포를 클릭 한다.
+4. 설정한다.
+    - Office 배포
+        * 아키텍처 : 컴퓨터 사양에 맞도록 설정
+        * 업데이트 채널 : Office LTSC PRO plus 2021 -Volume
+        * 설치 모듈 : Office 배포도구
+    - 제품
+        * 원하는 오피스 제품
+            - Excel
+            - PowerPoint
+            - Word
+    - 언어
+        * 한국어
+5. 배포시작을 누르고 기다린다.
+6. 배포 완료 후 Office를 켠다.
+
+[Office 인증]
+
+1.  KMSoffline_x64.exe를 실행시킨다.
+2. 본인 office 버젼을 선택한다.
+3. install Key > Activate를 클릭한다.
+4. Successfully 가 나오면 성공이다.
